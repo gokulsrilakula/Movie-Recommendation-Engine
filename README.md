@@ -13,3 +13,22 @@ It is a numerical value ranges between zero to one which helps to determine how 
 
 How Cosine Similarity works?
 Cosine similarity is a metric used to measure how similar the documents are irrespective of their size. Mathematically, it measures the cosine of the angle between two vectors projected in a multi-dimensional space. The cosine similarity is advantageous because even if the two similar documents are far apart by the Euclidean distance (due to the size of the document), chances are they may still be oriented closer together. The smaller the angle, higher the cosine similarity.
+
+
+To Reuse this Engine
+
+1.Download all the files.
+
+2.Download the DataSet from the Kaggle.
+
+3.Install all the required modules
+
+4.Run the .ipynb file on the jupiter notebook for testing.
+
+5.Move the .pkl and .py to a particular folder. 
+
+6.Run the app.py in Pycharm.
+
+Enjoy the Recomendations.
+
+Thanks🤗
